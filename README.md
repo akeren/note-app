@@ -18,6 +18,13 @@
 - Reading a Note
 - Refactoring
 
+## Installation
+
+    - clone the repository
+    - cd into the directory
+    - Install the two npm modules (yards and chalks) by typing: npm install
+    - Run the program by typing: node app.js
+
 ## Acknowledgement
 
 [Andrew Mead](https://twitter.com/andrew_j_mead). He is a great motivator and awesome teacher of code with rich knowledgable skills. You can check and take his Bestselling **Node JS** course on udemy. The course is exceptionally wonderful.
