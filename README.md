@@ -17,3 +17,7 @@
 - Listing Notes
 - Reading a Note
 - Refactoring
+
+## Acknowledgement
+
+[Andrew Mead](https://twitter.com/andrew_j_mead). He is a great motivator and awesome teacher of code with rich knowledgable skills. You can check and take his Bestselling **Node JS** course on udemy. The course is exceptionally wonderful.
