@@ -22,7 +22,7 @@
 
     - clone the repository
     - cd into the directory
-    - Install the two npm modules (yards and chalks) by typing: npm install
+    - Install the two npm modules (yargs and chalks) by typing: npm install
     - Run the program by typing: node app.js
 
 ## Acknowledgement
